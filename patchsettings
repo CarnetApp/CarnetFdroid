@@ -1,0 +1,12 @@
+diff --git a/settings.gradle b/settings.gradle
+index ae847e3..93b0751 100644
+--- a/settings.gradle
++++ b/settings.gradle
+@@ -2,6 +2,3 @@ include ':app', ':Sync', ':GoogleSync'
+ 
+ include ':Sync'
+ project(':Sync').projectDir = new File(settingsDir, '../Sync')
+-
+-include ':GoogleSync'
+-project(':GoogleSync').projectDir = new File(settingsDir, '../GoogleSync')
+\ No newline at end of file
