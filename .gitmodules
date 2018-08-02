@@ -1,6 +1,6 @@
-[submodule "QuickDocAndroid"]
-	path = QuickDocAndroid
-	url = https://github.com/PhieF/QuickDocAndroid.git
 [submodule "Sync"]
 	path = Sync
 	url = https://github.com/PhieF/Sync.git
+[submodule "CarnetAndroid"]
+	path = CarnetAndroid
+	url = https://github.com/PhieF/CarnetAndroid.git
