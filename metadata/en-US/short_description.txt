@@ -1,1 +1,1 @@
-Complete windowed rich text editor
+Powerful note taking app with sync capabilities
