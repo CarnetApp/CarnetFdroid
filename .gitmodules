@@ -1,6 +1,6 @@
 [submodule "Sync"]
-	path = Sync
+	path = data/Sync
 	url = https://github.com/PhieF/Sync.git
 [submodule "CarnetAndroid"]
-	path = CarnetAndroid
+	path = data/CarnetAndroid
 	url = https://github.com/PhieF/CarnetAndroid.git
