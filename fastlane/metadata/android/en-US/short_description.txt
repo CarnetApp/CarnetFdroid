@@ -1,1 +1,1 @@
-Powerful note taking app with sync capabilities
+Powerful note taking app with sync and online editor

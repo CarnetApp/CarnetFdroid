@@ -1,8 +1,8 @@
 Carnet is a powerful note taking app which purpose is not only to write your
 shopping list but can also be used to write longer texts, stories, etc.
 
-Carnet is available on Android and Linux, soon on your web browser, Windows and
-Mac, with sync capabilities
+Carnet is available on Android and Linux, also on your web browser with full compatibility with Windows,
+Mac and Linux, with sync capabilities (not mandatory)
 
 '''Features'''
 
