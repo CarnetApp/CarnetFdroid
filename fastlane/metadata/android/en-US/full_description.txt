@@ -17,11 +17,11 @@ Mac and Linux, with sync capabilities (not mandatory)
 * Protect the app with a pin code (won't encrypt notes) on android
 * Statistics : words/sentences/characters
 * Sync with NextCloud
+* Record audio
 * Online editor as a NextCloud App
 
 '''To come'''
 
-* Audio recording
 * Perf improvements
 * Lighter version for linux without Electron
 * Windows / Mac OS electron app
