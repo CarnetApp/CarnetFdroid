@@ -19,7 +19,8 @@ Mac and Linux, with sync capabilities (not mandatory)
 * Sync with NextCloud
 * Record audio
 * Online editor as a NextCloud App
-
+* Dark theme
+* Change note background color
 '''To come'''
 
 * Perf improvements
