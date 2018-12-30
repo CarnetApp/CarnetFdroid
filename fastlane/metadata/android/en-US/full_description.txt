@@ -21,6 +21,7 @@ Mac and Linux, with sync capabilities (not mandatory)
 * Online editor as a NextCloud App
 * Dark theme
 * Change note background color
+* TodoLists
 
 '''To come'''
 
