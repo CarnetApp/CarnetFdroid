@@ -1,0 +1,23 @@
+Carnet est une application de prise de note puissante qui permet certes d'écrire votre liste de course mais peut aussi être utilisée pour écrire de courts ou longs textes, histoires, coller des images, comme un véritable Carnet.
+
+Carnet est disponible sur Android et linux, ainsi que dans votre navigateur internet (Mac, Windows, Linux) si vous choisissez d'activer la synchronisation.
+
+'''Fonctionnalités'''
+
+* Éditeur complet : Gras/Italique/Souligné/Couleur/Surlignage/Alignement
+* Import depuis Google Keep (seulement sur la version Linux, qui ensuite peut se synchroniser)
+* Organisation par dossier avec choix du dossier de stockage de vos notes
+* Mots-clefs / Labels
+* Navigation rapide parmi vos dernières notes
+* Protection par code pin (sans chiffrement)
+* Statistiques : compter vos mots / phrases / caractères
+* Thème sombre
+* Choix de la couleur de fond de la note
+* Todo-Lists
+* Lien vers des sites internet
+* Synchronisation avec NextCloud
+* Disponible sur le magasin d'application NextCloud
+* Traduit en plusieurs langues
+
+
+Cette application est en développement constant
