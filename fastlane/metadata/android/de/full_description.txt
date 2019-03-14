@@ -1,0 +1,30 @@
+Carnet ist eine leistungsstarke Notiz-App, die nicht nur dazu dient, Ihre Einkaufsliste zu schreiben,
+sondern kann auch zum Schreiben von längeren Texten, Geschichten und ähnlichem verwendet werden.
+
+Carnet ist Open Source, Carnet trackt Sie nicht, Carnet enthält keine Werbung, Carnet ist kostenlos. Wir bauen auf Spenden :)
+
+Carnet ist für Android und Linux verfügbar und außerdem auch in Ihrem Webbrowser,
+mit voller Kompatibilität mit Windows, Mac und Linux inkl. Synchronisierungsfunktionen (nicht erforderlich).
+
+'''Funktionen'''
+* umfangreicher Editor: fett / kursiv / unterstrichen / Farbe / hervorheben
+* von Google Keep importieren (nur auf dem Desktop möglich und anschließend mit dem Handy synchronisieren)
+* Fügen Sie Bilder hinzu
+* offenes HTML-Format
+* Organisieren Sie Ihre Notizen in Ordnern und wählen Sie je nach Bedarf das Speicherverzeichnis aus
+* Schlüsselwörter
+* Sehen Sie sich schnell Ihre letzten Notizen an
+* Durchsuchen Sie Ihre Notizen
+* Schützen Sie die App unter Android mit einem PIN-Code (verschlüsselt die Notizen nicht)
+* Statistik zu Wörter, Sätze & Zeichen
+* mit Nextcloud synchronisieren
+* Audio aufnehmen
+* Online-Editor als Nextcloud-App
+* dunkles Theme
+* Ändern Sie die Hintergrundfarbe Ihre Notizen
+* Aufgabenlisten
+
+'''Kommendes'''
+* leichtere Version für Linux ohne Elektron
+* Windows / Mac OS Elektron-App
+* viele Dinge, an die ich gerade noch nicht denke
