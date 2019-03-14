@@ -1,15 +1,11 @@
-Carnet is a powerful note taking app which purpose is not only to write your
-shopping list but can also be used to write longer texts, stories, etc.
+Carnet is a powerful note taking app which purpose is not only to write your shopping list but can also be used to write longer texts, stories, etc.
 
-Carnet is available on Android and Linux, also on your web browser with full compatibility with Windows,
-Mac and Linux, with sync capabilities (not mandatory)
+Carnet is available on Android and Linux, also on your web browser with full compatibility with Windows, Mac and Linux, with sync capabilities (not mandatory)
 
 '''Features'''
 
-* Complete editor : bold/italic/underline/color/highlight
+* Complete editor : bold/italic/underline/color/highlight/alignment
 * Import from Google Keep (only on desktop, then sync on mobile)
-* Insert images / review
-* Open HTML format
 * Organize with folders and choose root storage folder depending on your needs
 * Keywords
 * Quickly see your recent notes
@@ -17,15 +13,13 @@ Mac and Linux, with sync capabilities (not mandatory)
 * Protect the app with a pin code (won't encrypt notes) on android
 * Statistics : words/sentences/characters
 * Sync with NextCloud
-* Record audio
+* Images / Record audio
 * Online editor as a NextCloud App
 * Dark theme
 * Change note background color
 * TodoLists
+* Websites' links
+* Multiple languages
 
-'''To come'''
 
-* Perf improvements
-* Lighter version for linux without Electron
-* Windows / Mac OS electron app
-* Many things I don't think about right now
+The app is in constant development
