@@ -6,7 +6,7 @@ Carnet ist Open Source, Carnet trackt Sie nicht, Carnet enthält keine Werbung, 
 Carnet ist für Android und Linux verfügbar und außerdem auch in Ihrem Webbrowser,
 mit voller Kompatibilität mit Windows, Mac und Linux inkl. Synchronisierungsfunktionen (nicht erforderlich).
 
-'''Funktionen'''
+Funktionen
 * umfangreicher Editor: fett / kursiv / unterstrichen / Farbe / hervorheben
 * von Google Keep importieren (nur auf dem Desktop möglich und anschließend mit dem Handy synchronisieren)
 * Fügen Sie Bilder hinzu
@@ -24,7 +24,7 @@ mit voller Kompatibilität mit Windows, Mac und Linux inkl. Synchronisierungsfun
 * Ändern Sie die Hintergrundfarbe Ihre Notizen
 * Aufgabenlisten
 
-'''Kommendes'''
+Was noch kommen wird...
 * leichtere Version für Linux ohne Elektron
 * Windows / Mac OS Elektron-App
 * viele Dinge, an die ich gerade noch nicht denke
