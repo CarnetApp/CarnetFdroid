@@ -1,0 +1,1 @@
+Výkonná apka na písanie poznámok s funkciou synchronizácie a online editorom

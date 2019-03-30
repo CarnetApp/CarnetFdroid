@@ -1,0 +1,3 @@
+oprava chyby
+presunúť poznámky
+viacnásobný výber

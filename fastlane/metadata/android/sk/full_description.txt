@@ -1,0 +1,33 @@
+Carnet je výkonná apka na písanie poznámok, ktorú využijete nielen na spísanie
+nákupného zoznamu, ale aj na písanie dlhších textov, príbehov atď.
+
+Carnet má otvorený kód, Carnet Vás nesleduje, Carnet neobsahuje reklamy, Carnet je zadarmo. Spoliehame sa na príspevky. :)
+
+Carnet je k dispozícii pre Android a Linux, taktiež pre webový prehliadač s plnou kompatibilitou s Windowsom,
+Macom a Linuxom, s funkciou synchronizácie (nepovinné)
+
+'''Funkcie'''
+
+* Kompletný editor : tučné písmo/kurzíva/podčiarknutie/farba/zvýraznenie
+* Import z Google Keep (len na počítači, potom synchronizácia na mobile)
+* Vkladanie obrázkov / ukážka
+* Otvorený formát HTML
+* Organizácia priečinkov a výber priečinka koreňového úložiska v závislosti od vašich potrieb
+* Kľúčové slová
+* Rýchlo si prehliadnite svoje najnovšie poznámky
+* Vyhľadávanie v poznámkach
+* Ochrana apky pomocou PIN kódu na Androide (nešifruje poznámky)
+* Štatistika : slová/vety/znaky
+* Synchronizácia s Nextcloudom
+* Nahrávanie zvuku
+* Online editor ako apka Nextcloudu
+* Tmavý motív
+* Zmena farby pozadia poznámky
+* Zoznamy úloh
+
+'''Plánované'''
+
+* Vylepšenia výkonu
+* Ľahšia verzia pre Linux bez Electronu
+* Electronová apka pre Windows / Mac OS
+* Veľa vecí, o ktorých zatiaľ nepremýšľam
