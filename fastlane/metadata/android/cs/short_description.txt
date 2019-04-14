@@ -1,0 +1,1 @@
+Poznámková aplikace se synchronizací a online editorem
