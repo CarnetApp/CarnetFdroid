@@ -1,0 +1,32 @@
+Carnet estas potenca notila apo kies celo estas ne nur redatki viajn
+aĉetolistojn sed ankaŭ uzeblas por skribi pli longajn tekstojn, storiojn, ktp.
+
+Carnet estas malfermitkoda, Carnet ne spuras vin, Carnet enhavas neniun reklamon, Carnet estas senpaga. Ni esperas je viaj donacoj :)
+
+Carnet disponeblas por Androido kaj Linukso, kaj ankaŭ en via retfoliumilo kun plena kongruo kun Windows, macOS kaj Linukso, kun sinkronigaj eblecoj (nedevigaj)
+
+'''Funkcioj'''
+
+* Kompleta redaktilo: grasa/kursiva/substrekita/koloro/markado
+* Importado el Google Keep (nur en la Linuksa versio, kiun poste oni povas sinkronigi)
+* Enmeti bildojn / revizioj
+* Malfermita HTML datumaranĝo
+* Organizu per dosierujoj kaj elektu radika konservada dosierujo depende de viaj bezonoj
+* Ŝlosilvortoj
+* Rapide vidu viajn lastajn notojn
+* Serĉu inter viaj notoj
+* Protektu la apon per PIN-kodo (tio ne ĉifros viajn notojn) en Androido
+* Statistikoj: vortoj/frazoj/signoj
+* Sinkronigu kun Nextcloud
+* Registru aŭdaĵojn
+* Reta redaktilo disponebla en la aplikaĵejo de Nextcloud
+* Malhela etoso
+* Ŝanĝu fona koloro de notoj
+* Endlistoj
+
+'''Venontaj'''
+
+* Rendimentaj plibonigoj
+* Pli malpeza Linuksa versio sen Electron
+* Windows/macOS Electron-apo
+* Multaj aferoj pri kiuj mi ne ekpensas nun
