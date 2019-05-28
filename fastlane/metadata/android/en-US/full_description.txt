@@ -24,6 +24,7 @@ Mac and Linux, with sync capabilities (not mandatory)
 * Dark theme
 * Change note background color
 * TodoLists
+* Reminders
 
 '''To come'''
 
