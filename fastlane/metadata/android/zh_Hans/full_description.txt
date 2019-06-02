@@ -1,0 +1,31 @@
+Carnet 是一个功能强大的笔记应用程序，它不仅可以用来写你的购物清单，还可以用来写更长的文字、故事等。
+
+Carnet 是开源的，Carnet 不跟踪你，Carnet 不包含任何广告，Carnet 是免费的。我们依靠捐款:)
+
+Carnet 可以在 Android 和 Linux 上使用，也可以在您的 web 浏览器上使用，完全兼容Windows、Mac 和 Linux，具有同步功能(非强制)
+
+'''特点'''
+
+* 完整的编辑器：粗体/斜体/下划线/颜色/高亮
+* 导入 Google Keep（仅限桌面，然后在手机上同步）
+* 插入 图片 / 审查
+* 开放 HTML 格式
+* 使用文件夹进行组织，并根据需要选择根存储文件夹
+* 关键词
+* 快速查看你最近的笔记
+* 搜索你的笔记数量
+* 在 Android 上用 pin 码保护应用程序（不会加密笔记）
+* 统计：words/sentences/characters
+* 使用 NextCloud 同步
+* 录制音频
+* 安装在 NextCloud 应用程序中的在线编辑器
+* 暗色主题
+* 更改便签背景颜色
+* 待办事项列表
+
+'''将来'''
+
+* 提升性能
+* 不带 Electron 的 轻量 linux 版本
+* Windows / Mac OS electron 应用程序
+* 很多我现在没想到的事情
