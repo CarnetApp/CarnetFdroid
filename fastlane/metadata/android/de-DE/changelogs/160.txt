@@ -1,0 +1,20 @@
+Neue Funktionen: Erinnerungen
+
+Mehrzeilige Aufgabenlisten
+
+UI:
+
+Größerer Button zum Erstellen von Notizen
+
+Die Titelleiste ist direkt im Editor
+
+Eine Aufgabe wird in der Notizübersicht nicht mehr abgehakt, wenn man den Text berührt
+
+
+Experimentelles schnelleres laden des Editors
+
+Protokolle werden nicht standardmäßig erstellt
+
+
+Sprachen
+Esperanto (mallabori), Spanisch (Rafael Yáñez), Arabisch (Butterfly of fire)

@@ -20,9 +20,10 @@ Funktionen
 * mit Nextcloud synchronisieren
 * Audio aufnehmen
 * Online-Editor als Nextcloud-App
-* dunkles Theme
+* dunkles Design
 * Ändern Sie die Hintergrundfarbe Ihre Notizen
 * Aufgabenlisten
+* Erinnerungen
 
 Was noch kommen wird...
 * leichtere Version für Linux ohne Elektron
