@@ -1,0 +1,3 @@
+corrección fallo
+mover notas
+selección múltiple

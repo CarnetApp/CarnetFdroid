@@ -1,0 +1,1 @@
+App para tomar notas con sincronización e editor en liña
