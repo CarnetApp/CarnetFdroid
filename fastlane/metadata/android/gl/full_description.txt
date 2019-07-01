@@ -1,0 +1,34 @@
+Carnet é unha potente aplicación para tomar notas que non só lle permite
+escribir a lista da compra, tamén pode utilizala para textos longos, historias, etc.
+
+Carnet é Open Source, Carnet non te rastrexa, Carnet non contén publicidade, Carnet é gratuíta. Aceptamos doazóns  :)
+
+Carnet está dipoñible para Android e Linux, tamén no navegador con compatibilidade total con Windows
+Mac e Linux, con capacidade de sincronización (non obligatoria)
+
+'''Características'''
+
+* Editor completo : restaltar/cursiva/subliñado/cor/destacar
+* Importar desde Google Keep (só no escritorio, despois sincr. co móbil)
+* Insertar imaxes / revisar
+* Abrir formato HTML
+* Organizar con cartafoles e escoller o directorio raíz dependendo das súas necesidades
+* Palabras chave
+* Vista rápida das notas recentes
+* Buscar en todas as notas
+* App protexida con código PIN en android (non cifra as notas)
+* Estatísticas : palabras/frases/caracteres
+* Sincr. con  NextCloud
+* Gravar audio
+* Editor en liña como App NextCloud
+* Decorado escuro
+* Mudar a cor de fondo da nota
+* Listas de tarefas
+* Recordatorios
+
+'''Por vir'''
+
+* Melloras de rendemento
+* Versión lixeira para Linux sen Electron
+* App Electron para Windows / Mac OS
+* ...e moito máis que agora non lembro

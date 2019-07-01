@@ -1,0 +1,21 @@
+Nova función : Recordatorios
+
+Listas de tarefas multiliña
+
+IU:
+
+Botón de nova nota máis grande
+
+Barra de título directamente no editor
+
+Non comprobar lista de tarefas na lista de notas ao tocar o texto
+
+
+Carga máis rápida do editor, experimental.
+
+Sen logs por omisión
+
+
+Idiomas:
+
+Esperanto (mallabori), Spanish (Rafael Yáñez), Arabic (Butterfly of fire)
