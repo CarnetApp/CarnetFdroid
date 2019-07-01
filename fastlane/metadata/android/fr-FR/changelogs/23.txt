@@ -1,0 +1,3 @@
+Correction de bogues
+Déplacement de notes
+Sélection multiple

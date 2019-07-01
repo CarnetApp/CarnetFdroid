@@ -1,25 +1,30 @@
 Carnet est une application de prise de note puissante qui permet certes d'écrire votre liste de course mais peut aussi être utilisée pour écrire de courts ou longs textes, histoires, coller des images, comme un véritable Carnet.
 
-Carnet est Open Source, Carnet ne vous espionne pas, Carnet ne contient aucune publicité, Carnet est gratuite. Nous comptons sur vos dons :)
+Carnet est Open Source, Carnet ne vous espionne pas, Carnet ne contient aucune publicité, Carnet est gratuit. Nous comptons sur vos dons :)
 
-Carnet est disponible sur Android et linux, ainsi que dans votre navigateur internet (Mac, Windows, Linux) si vous choisissez d'activer la synchronisation.
+Carnet est disponible sur Android et Linux ainsi que dans votre navigateur internet (Mac, Windows et Linux) si vous choisissez d'activer la synchronisation.
 
 '''Fonctionnalités'''
 
 * Éditeur complet : Gras/Italique/Souligné/Couleur/Surlignage/Alignement
-* Import depuis Google Keep (seulement sur la version Linux, qui ensuite peut se synchroniser)
+* Import depuis Google Keep (seulement sur la version pour ordinateur, qui ensuite peut se synchroniser avec l'application mobile)
 * Organisation par dossier avec choix du dossier de stockage de vos notes
 * Mots-clefs / Labels
 * Navigation rapide parmi vos dernières notes
+* Recherche parmi vos notes
 * Protection par code pin (sans chiffrement)
 * Statistiques : compter vos mots / phrases / caractères
+* Synchronisation avec NextCloud
+* Enregistrement audio
+* Disponible sur le magasin d'application NextCloud
 * Thème sombre
 * Choix de la couleur de fond de la note
 * Todo-Lists
-* Lien vers des sites internet
-* Synchronisation avec NextCloud
-* Disponible sur le magasin d'application NextCloud
-* Traduit en plusieurs langues
+* Rappels
 
+'''A venir'''
 
-Cette application est en développement constant
+* Amélioration des performances
+* Version plus légère pour linux, sans Electron
+* Application Electron pour Windows / MacOS
+* Plein de choses que j'ignore actuellement.

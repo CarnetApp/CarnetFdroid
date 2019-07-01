@@ -1,0 +1,20 @@
+Nouvelles fonctionnalités: Rappels
+
+Todo-list sur plusieurs lignes
+
+Interface utilisateur:
+
+Button de création de note plus grand
+
+Barre de titre directement dans l'éditeur
+
+Ne valide pas un élément d'une todo-list lorsque l'on clique le texte
+
+Chargement plus rapide de l'éditeur (expérimental)
+
+Journalisation pas activée par défaut
+
+
+Langues :
+
+Espéranto (mallabori), Espagnol (Rafael Yáñez), Arabe (Butterfly of fire)
