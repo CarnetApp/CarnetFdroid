@@ -1,0 +1,21 @@
+Nová funkcia : Pripomenutia
+
+Viacriadkové zoznamy úloh
+
+UI:
+
+Väčšie tlačidlo vytvorenia poznámky
+
+Záhlavie okna priamo v editore
+
+Zoznam úloh v zozname poznámok sa nezaškrtáva pri dotyku textu
+
+
+Experimentálne rýchlejšie načítavanie editora
+
+Denníky nie sú predvolené
+
+
+Jazyky:
+
+esperanto (mallabori), španielčina (Rafael Yáñez), arabčina (Butterfly of fire)
