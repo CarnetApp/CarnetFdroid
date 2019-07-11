@@ -1,0 +1,32 @@
+Carnet är en kraftfull anteckningsapp vars syfte är att inte bara spara shoppinglistan utan också längre texter, berättelser osv.
+
+Carnet är Open Source, Carnet övervakar inte dig, Carnet innehåller inga annonser, Carner är fritt att använda. Vi hoppas på donationer :)
+
+Carnet är tillgängligt för Android och Linux, samt i din webbläsare med full kompatibilitet för Windows, Mac och Linux, med möjlighet att synkronisera (frivilligt).
+
+"'Egenskaper'"
+
+* Komplett editor - fet/kursiv/understruken/färgade/markerad text
+* Importera från Google Keep (enbart för desktop-versionen, synkronisera sedan till mobil)
+* Infoga bilder / review
+* Öppna HTML-format
+* Organisera i kataloger and välj startkatalog beroende på dina behov
+* Nyckelord
+* Se dina senaste anteckningar enkelt och snabbt
+* Sök bland dina anteckningar
+* Skydda appen med pin-kod (krypterar ej anteckningarna) på Android
+* Statistik : ord/meningar/tecken
+* Synkronisera med NextCloud
+* Spela in ljud
+* Onlineeditorn som en NextCloud-app
+* Mörkt tema
+* Byt bakgrundsfärg på anteckningar
+* Att göra-listor
+* Påminnelser
+
+"'Kommande'"
+
+* Förbättrad prestanda
+* Tunnare version till Linux utan att använda Electron
+* Windows / Mac OS Electron app
+* Många fler saker jag inte kan komma på just nu

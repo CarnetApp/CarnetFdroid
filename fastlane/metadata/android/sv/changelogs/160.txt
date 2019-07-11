@@ -1,0 +1,21 @@
+Ny funktion : Påminnelser
+
+Flerradiga att göra-listor
+
+UI:
+
+Större skapa anteckning-knapp
+
+Titelrad direkt i editorn
+
+Kontrollera inte att göra-listan i anteckning när text hanteras
+
+
+Experimentiell snabbare laddning av editor
+
+Loggar inte som standard
+
+
+Språk:
+
+Esperanto (mallabori), Spanska (Rafael Yáñez), Arabiska (Butterfly of fire)
