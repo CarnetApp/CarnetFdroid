@@ -11,7 +11,7 @@ Die Titelleiste ist direkt im Editor
 Eine Aufgabe wird in der Notizübersicht nicht mehr abgehakt, wenn man den Text berührt
 
 
-Experimentelles schnelleres laden des Editors
+Experimentelles schnelleres Laden des Editors
 
 Protokolle werden nicht standardmäßig erstellt
 

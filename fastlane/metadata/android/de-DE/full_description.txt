@@ -1,5 +1,5 @@
 Carnet ist eine leistungsstarke Notiz-App, die nicht nur dazu dient, Ihre Einkaufsliste zu schreiben,
-sondern kann auch zum Schreiben von längeren Texten, Geschichten und ähnlichem verwendet werden.
+sondern auch zum Schreiben von längeren Texten, Geschichten und ähnlichem verwendet werden kann.
 
 Carnet ist Open Source, Carnet trackt Sie nicht, Carnet enthält keine Werbung, Carnet ist kostenlos. Wir bauen auf Spenden :)
 
@@ -26,6 +26,7 @@ Funktionen
 * Erinnerungen
 
 Was noch kommen wird...
+* Performance-Verbesserungen
 * leichtere Version für Linux ohne Elektron
 * Windows / Mac OS Elektron-App
 * viele Dinge, an die ich gerade noch nicht denke
