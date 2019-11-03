@@ -1,0 +1,21 @@
+Nieuwe functies:
+
+Herinneringen
+
+Todo lijsten met meerde zinnen
+
+User Interface
+
+De notitie aanmaken knop is vergroot
+
+Titel bar is in de editor geïntegreerd
+
+Todo lijst: Als een text wordt aangeraakt wordt deze niet direct aangevinkt
+
+Opstarttijd voor de editor laadt sneller
+
+Standaard worden geen logs meer bijgehouden
+
+Taalondersteuning:
+
+Esperanto(mallabori), Spaans (Rafael Yáñez), Arabisch (Butterfly of fire)

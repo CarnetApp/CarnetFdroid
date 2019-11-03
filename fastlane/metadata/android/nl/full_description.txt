@@ -1,0 +1,33 @@
+Carnet is een veelzijdige notitie app, ontwikkeld om niet alleen boodschappenlijsten te schrijven maar ook langere teksten.
+
+Carnet is Open Source, het volgt u niet en bevat geen reclame.
+Carnet is vrij te gebruiken maar voor ondersteuning verwelkomen wij iedere donatie :)
+
+Carnet is beschikbaar als native app voor Android en Linux en het heeft een webportaal zodat Carnet ook onder Windows en Mac gebruikt kan worden.
+Daarnaast is het mogelijk om notities te synchroniseren via onder andere Nextcloud.
+
+‘‘‘Functies’’’
+
+* Uitgebreide editor: ondersteund vet / cursief / onderstreept / kleurgebruik / arceren
+* Importfunctie voor Google Keep (Via de desktop app waarna gesynchroniseerd kan worden naar mobiel)
+* Importfunctie voor foto’s
+* Ondersteund open HTML formaat
+* Maakt gebruik van folders waardoor u uw notities overzichtelijk kunt structureren, u kunt zelf aangeven waar u uw gegevens wilt opslaan
+* Ondersteund sleutelwoorden
+* Een handig overzicht van recente notities
+* Zoekfunctie voor het doorzoeken van notities
+* Op Android bestaat de mogelijkheid om de app te beveiligen met een pin code (versleuteling notities middels encryptie is niet mogelijk)
+* Statistisch overzicht van woorden / zinnen en aantal leestekens
+* Ondersteund synchronisatie via Nextcloud
+* Audio opname
+* Online editor als native Nextcloud App
+* Donker thema
+* Instelbare notitie achtergrondkleur
+* ondersteund Todo lijsten met selectievakken
+* herinneringen
+
+‘‘‘Toekomstige functies’’’
+* Performance verbeteringen
+* Een lichtere versie voor Linux welke niet meer op Electron gebaseerd zal zijn
+* Een native Electron gebaseerde Windows en Mac OS app
+* extra functies
