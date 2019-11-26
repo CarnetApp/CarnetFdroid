@@ -1,0 +1,17 @@
+Yeni özellik: Hatırlatmalar
+
+Çok satırlı yapılacaklar listeleri
+
+Arayüz değişiklikleri:
+
+Daha büyük not ekleme butonu
+
+Başlık çubuğu artık düzenleme modunda
+
+Notlar listesindeyken metne dokunulduğunda artık yapılacaklar listesindeki bir şey yapıldı işaretlenmeyecek
+
+Daha hızlı yüklenme (deneysel)
+
+Diller:
+
+Esperanto (mallabori), İspanyolca (Rafael Yáñez), Arapça (Butterfly of fire)

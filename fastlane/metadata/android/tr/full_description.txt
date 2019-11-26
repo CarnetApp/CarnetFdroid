@@ -1,0 +1,33 @@
+Carnet, alışveriş listesi gibi kısa ve günlük notların yanı sıra uzun metinler,
+hikayeler, günlükler de yazabileceğiniz güçlü bir not alma uygulamasıdır.
+
+Carnet özgür yazılımdır, sizi takip etmez, reklam içermez ve ücretsizdir. Bu yüzden bağışlarınızı bekliyoruz :)
+
+Carnet'in Android ve GNU/Linux için uygulamaları vardır, ancak web tarayıcısı üzerinden Windows, Mac ve GNU/Linux ile tam uyumlu olarak çalışır. 
+
+'''Özellikler'''
+
+* Metin biçimlendirme yapabilirsiniz: kalın/italik/altı çizili/renkli/vurgulu
+* Google Keep'teki notlarınızı aktarabilirsiniz (sadece masaüstünde, oradan cep telefonunuza eşitleyebilirsiniz)
+* Resim ve değerlendirmeler ekleyebilirsiniz
+* HTML açabilirsiniz
+* Dizinlerinizi düzenleyerek, ihtiyaçlarınıza göre notlarınızın hangi dizinde saklanacağına karar verebilirsiniz
+* Anahtar kelimeler ekleyebilirsiniz
+* Son yazdığınız notları hızlıca görüntüleyebilirsiniz
+* Notlarınızın içerisinde arama yapabilirsiniz
+* Android üzerinde uygulamayı bir PIN kodu ile koruyabilirsiniz (Notlarınız şifrelenmez!)
+* İstatistikleri görüntüleyebilirsiniz: Kelime sayısı/cümle sayısı/karakter sayısı
+* NextCloud ile eşitleyebilirsiniz
+* Ses kaydedebilirsiniz
+* Çevrimiçi düzenleme yapabilirsiniz (NextCloud ile)
+* Koyu tema mevcuttur
+* Notlarınızın arka plan rengini değiştirebilirsiniz
+* Yapılacaklar listesi oluşturabilirsiniz
+* Hatırlatmalar oluşturabilirsiniz
+
+'''Gelecek özellikler'''
+
+* Performans iyileştirmeleri
+* Electron'suz hafif bir GNU/Linux sürümü
+* Windows ve Mac OS uygulaması 
+* Şu anda aklımıza gelmeyen birçok şey
