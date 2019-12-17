@@ -24,6 +24,7 @@ Macom a Linuxom, s funkciou synchronizácie (nepovinné)
 * Tmavý motív
 * Zmena farby pozadia poznámky
 * Zoznamy úloh
+* Pripomenutia
 
 '''Plánované'''
 
