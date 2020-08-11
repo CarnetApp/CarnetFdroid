@@ -1,0 +1,3 @@
+Solución de algunos Bugs
+Mover notas
+Selección múltiple

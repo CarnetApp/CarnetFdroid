@@ -1,0 +1,21 @@
+Nueva función: recordatorios
+
+Todolistas multilíneas
+
+Interfaz de usuario:
+
+Botón de creación de notas más grande
+
+Barra de título directamente en el editor
+
+No marque todolist en la lista de notas al tocar el texto
+
+
+Carga experimental del editor más rápida
+
+Registros no predeterminados
+
+
+Idiomas:
+
+Esperanto (mallabori), español (Rafael Yáñez), árabe (Mariposa de fuego)
