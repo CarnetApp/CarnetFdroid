@@ -1,0 +1,21 @@
+Nowa funkcja: przypomnienia
+
+Multilinie todolists
+
+UI:
+
+Większy przycisk tworzenia notatki
+
+Pasek tytułu bezpośrednio w edytorze
+
+Nie zaznaczaj listy rzeczy do zrobienia na liście notatek podczas dotykania tekstu
+
+
+Eksperymentalne szybsze ładowanie edytora
+
+Dzienniki nie są domyślnie
+
+
+Języki:
+
+Esperanto (mallabori), hiszpański (Rafael Yáñez), arabski (Butterfly of fire)

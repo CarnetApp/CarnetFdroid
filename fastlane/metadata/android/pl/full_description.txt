@@ -1,0 +1,34 @@
+Carnet to potężna aplikacja do robienia notatek, której celem jest nie tylko pisanie
+lista zakupów, ale może być również używana do pisania dłuższych tekstów, opowiadań itp.
+
+Karnet jest Open Source, Carnet cię nie śledzi, Carnet nie zawiera żadnych reklam, Carnet jest darmowy. Liczymy na darowizny :)
+
+Carnet jest dostępny na Androida i Linuksa, również w Twojej przeglądarce internetowej z pełną kompatybilnością z Windows,
+Mac i Linux, z możliwością synchronizacji (nieobowiązkowe)
+
+'''Cechy'''
+
+* Kompletny edytor: pogrubienie / kursywa / podkreślenie / kolor / wyróżnienie
+* Importuj z Google Keep (tylko na komputerze, a następnie zsynchronizuj na telefonie komórkowym)
+* Wstawianie obrazów / recenzji
+* Otwórz format HTML
+* Organizuj foldery i wybierz główny folder przechowywania w zależności od potrzeb
+* Słowa kluczowe
+* Szybko zobacz swoje ostatnie notatki
+* Wyszukaj kwotę w swoich notatkach
+* Chroń aplikację za pomocą kodu PIN (nie będzie szyfrować notatek) na Androidzie
+* Statystyki: słowa / zdania / znaki
+* Synchronizuj z NextCloud
+* Nagraj dźwięk
+* Edytor online jako aplikacja NextCloud
+* Ciemny schemat
+* Zmień kolor tła notatki
+* TodoLists
+* Przypomnienia
+
+'''Przyjść'''
+
+* Udoskonalenia wydajności
+* Lżejsza wersja dla Linuksa bez Electron
+* Aplikacja elektronowa dla systemu Windows / Mac OS
+* Wiele rzeczy, o których teraz nie myślę
