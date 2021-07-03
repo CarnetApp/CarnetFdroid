@@ -1,6 +1,6 @@
 #!/bin/bash
 git checkout master
-git pull --rebase origin master
+git pull --rebase origin main
 cd app/CarnetAndroid
 git pull --rebase origin stable
 cd ../Sync
